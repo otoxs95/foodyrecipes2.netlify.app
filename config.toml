@@ -1,0 +1,17 @@
+baseURL = "http://foodyrecipes2.netlify.app/"
+languageCode = "en-us"
+title = "Otoxs| Foody Recipes "
+theme = "dream"
+
+[params]
+  background = "black"
+  backgroundImage = "background.jpg"
+  linkColor = "seagreen"
+  siteStartYear = 2020
+  
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404 = true
+  rss = true
+  enableSearch = true
